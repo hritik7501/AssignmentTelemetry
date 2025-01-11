@@ -1,0 +1,6 @@
+module Assignment
+typeinfo appAssignment.qmltypes
+prefer :/qt/qml/Assignment/
+Main 1.0 Main.qml
+TelemetryWindow 1.0 TelemetryWindow.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="/qt/qml/Assignment">.</file>
+        <file>Main.qml</file>
+    </qresource>
+</RCC>

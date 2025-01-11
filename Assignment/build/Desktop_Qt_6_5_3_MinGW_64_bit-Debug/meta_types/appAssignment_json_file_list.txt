@@ -1,0 +1,1 @@
+C:/Users/dell/Documents/Assignment/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/appAssignment_autogen/include/../EWIEGA46WW/moc_TelemetryBackend.cpp.json
